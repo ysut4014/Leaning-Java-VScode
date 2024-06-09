@@ -1,4 +1,4 @@
-public class Leaninig32 {
+public class Leaning32 {
     public static void main(String[] args) {
         //配列について
         int[] arrayA = {1, 2, 3};
